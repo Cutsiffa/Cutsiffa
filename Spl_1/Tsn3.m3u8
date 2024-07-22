@@ -2,4 +2,5 @@
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
 http://iptvtree.net:8080/T-thornman/2126e132/772
