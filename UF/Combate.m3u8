@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20693
