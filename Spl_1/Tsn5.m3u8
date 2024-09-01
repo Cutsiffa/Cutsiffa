@@ -1,9 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXT-X-STREAM-INF:BANDWIDTH=7300000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-https://ddy2.mizhls.ru/ddy2/premium599/index.m3u8
+https://ddy2.mizhls.ru/ddy2/premium599/index.m3u8:http-referrer=https://lewblivehdplay.ru/
+
 
 #http://iptvtree.net:8080/T-thornman/2126e132/774
