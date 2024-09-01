@@ -2,7 +2,6 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7300000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-https://ddy2.mizhls.ru/ddy2/premium599/index.m3u8:http-referrer=https://lewblivehdplay.ru/
-
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
 
 #http://iptvtree.net:8080/T-thornman/2126e132/774
