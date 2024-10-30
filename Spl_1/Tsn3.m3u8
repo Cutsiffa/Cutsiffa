@@ -1,9 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=384000,RESOLUTION=1280x720
-http://xtv.ooo:8080/live/Galaxy.2/4321/167578.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=280000,RESOLUTION=854x480
-http://xtv.ooo:8080/live/Galaxy.2/4321/167578.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=192000,RESOLUTION=640x360
-http://xtv.ooo:8080/live/Galaxy.2/4321/167578.m3u8
-
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=5175&deviceMac=00:1A:79:E5:A9:30
+http://mag.abcdxyz.one/play/live.php?mac=00:1A:79:17:1E:06&stream=487336&extension=ts
