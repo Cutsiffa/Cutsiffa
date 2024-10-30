@@ -4,13 +4,8 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/897690
-#EXTINF:1,
-http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/968464
-#EXTINF:1,
-http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/897760
-#EXTINF:1,
-http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/897707
-
-#http://s23tv.co:80/832287272500/473463282586/420168
+http://ktv.im:8080/0507102290a/0507102290a/49607
+http://ktv.im:8080/556224433k/9004455221/49607
+http://eu58.xyz:8080/play/live.php?mac=00:1A:79:3B:88:E3&stream=267749&extension=ts
