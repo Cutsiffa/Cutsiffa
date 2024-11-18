@@ -6,4 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=798795&extension=ts
+#http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=798795&extension=ts
