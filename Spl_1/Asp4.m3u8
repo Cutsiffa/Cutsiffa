@@ -4,6 +4,6 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:NO
+#EXT-X-ALLOW-CACHE:YES
 #EXTINF:1,
-http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=15301&deviceMac=00:1A:79:1D:53:3F
+https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/30912088/60996054/352090.ts
