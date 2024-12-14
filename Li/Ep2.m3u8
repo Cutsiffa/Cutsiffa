@@ -5,7 +5,8 @@
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXTINF:1,
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/30912088/60996054/346242.ts
+http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
 
+#https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/30912088/60996054/346242.ts
 #http://livetvbox.live:8080/live/127718262420/127744325447/274194.m3u8
 #http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/269221
