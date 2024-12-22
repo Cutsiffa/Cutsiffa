@@ -4,8 +4,10 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.120000,
-http://primestreams.tv:826/MCS497074/WlYFHaNd78/118585_0.ts
+http://xtv.ooo:8080/live/jk8010801099/jk8010801099/233178_0.ts
 #EXTINF:10.000000,
-http://primestreams.tv:826/MCS497074/WlYFHaNd78/118585_1.ts
+http://xtv.ooo:8080/live/jk8010801099/jk8010801099/233178_1.ts
 #EXTINF:10.000000,
-http://primestreams.tv:826/MCS497074/WlYFHaNd78/118585_2.ts
+http://xtv.ooo:8080/live/jk8010801099/jk8010801099/233178_2.ts
+
+#http://primestreams.tv:826/MCS497074/WlYFHaNd78/118585
