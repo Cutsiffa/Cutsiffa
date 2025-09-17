@@ -1,15 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3334
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.560000,
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/jk8010801099/jk8010801099/348358.ts
-#EXTINF:9.240000,
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/jk8010801099/jk8010801099/348358.ts
-#EXTINF:10.440000
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/jk8010801099/jk8010801099/348358.ts
-#EXTINF:9.920000,
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/jk8010801099/jk8010801099/348358.ts
-#EXTINF:10.440000,
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/jk8010801099/jk8010801099/348358.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335465&extension=m3u8
