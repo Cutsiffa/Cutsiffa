@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXTINF:10.0,
-http://defaultgen.com:3050/live/diana.rogers47@yahoo.com/pUnv52tkuM/605284.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335454&extension=m3u8
