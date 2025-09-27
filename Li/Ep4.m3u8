@@ -2,4 +2,4 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-https://tfoi4geauymt1go41hpjofa3dnptpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=dd110218fc601f6a5d54715748a23cc9&wsABSTime=1755920676&wsSession=ff27c274b3607418754e51d7-175587747757636&wsIPSercert=5396ea314426b25359cfdd272bb9b36e&wsiphost=local&wsBindIP=1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=547709&extension=m3u8
