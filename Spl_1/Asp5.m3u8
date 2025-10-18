@@ -2,7 +2,9 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335440&extension=m3u8
+https://v1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=8sVZxUWxii4e5RoYQYuPOQ&expires=1760809556&user_id=Tk1YdXUwNThjVWthTEw3MkYwaTlXWm43MnE4ajdNWGNwUUhQSFVZRQ==
+
+#http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335440&extension=m3u8
 
 #http://bmudnfh.megahdtv.xyz:900/live/0032829421/5272592091/82821.m3u8
 #http://royaltv.site:25461/live/WW0121/1911/105.m3u8
