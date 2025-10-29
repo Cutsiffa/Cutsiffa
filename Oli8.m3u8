@@ -3,4 +3,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-http://filex.tv:8080//live/000003/000003/302279.ts
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+
+#http://filex.tv:8080//live/000003/000003/302279.ts
