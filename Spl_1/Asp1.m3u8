@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1327276,CODECS="avc1.66.21,mp4a.40.2",RESOLUTION=1024x576
-https://v1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8?token=8sVZxUWxii4e5RoYQYuPOQ&expires=1760809556&user_id=Tk1YdXUwNThjVWthTEw3MkYwaTlXWm43MnE4ajdNWGNwUUhQSFVZRQ==
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
 
 #http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335436&extension=m3u8
