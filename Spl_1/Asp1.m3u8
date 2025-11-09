@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1327276,CODECS="avc1.66.21,mp4a.40.2",RESOLUTION=1024x576
-https://e3-22.n4154.xyz/35264327.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762702170/ei/-l4Qacu_N4mK3LUPrKq4qQ4/ip/2404%3Ac0%3A9602%3Ad4c0%3Ac4c2%3A56ba%3A9cf6%3A114f/id/xa3De2nszbk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TFN7klpD64zw1Y3XFDG8AI3l6xniER4GgVTZzkT-Ik4SEGIsJDpzgR16jLsg_gpL-f_GIIv8QE/spc/6b0G_Gj3_u9CmFZnQkgfo7f-tEZyHUjS0fNmrCwOJQvQpt_N0gZA8EHoJrVeTQKRTFbPFRwQJgaLESX5/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgARkQNq0fn0qgjchROYGYcwWyz9A53azji-sqElprJYACIQDlLU3DnCcBz2Y4DjJpnuE4ygMMKm0pc-QnyQY21GsoMw%3D%3D/file/index.m3u8
 
 #https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
 #http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=335436&extension=m3u8
