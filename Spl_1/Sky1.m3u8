@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://xtv.ooo:8080/live/fa540/123456/233178.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401242196.m3u8
+
+#http://xtv.ooo:8080/live/fa540/123456/233178.m3u8
