@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+https://cdn13.zohanayaan.com:1686/hls/narsenal.m3u8?md5=U0XwRSu1ivEf3KM5VY51PQ&expires=1787349631
+
+#https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
