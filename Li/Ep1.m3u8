@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://pro.auramax.name:80/play/live.php?mac=00:1A:79:40:3C:88&stream=610437&extension=ts&play_token=Mzxbj5etOP
-
-#http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/205613.m3u8
-#http://defaultgen.com:5050/live/dpowell4u@yahoo.com/T3Ubl4DOk7/758799.m3u8
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
