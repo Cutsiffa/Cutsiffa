@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=1660492&extension=m3u8&play_token=PESsPdpZ9Z
+http://oct.nexon.rocks:80/live/1bqdvpr9z8/gpsdhaqd2l/416847.m3u8
 
 #https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
