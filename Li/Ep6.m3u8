@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://edgestream2.pro/hls/sqdahach1ax.m3u8
+https://www.rtmpcdn.com/live/2ae5f1f9-9bf2-4e5e-9897-1b4f58a9aedc.m3u8
+
+#https://edgestream2.pro/hls/sqdahach1ax.m3u8
