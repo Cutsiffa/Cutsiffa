@@ -1,6 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://tv-213424.ifiesta.net:80/live/TV-7926745948196/892281004173/7044.m3u8
-
-#https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://013tv.com:8080/F33848/cbd9779b/162141
